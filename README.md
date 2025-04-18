@@ -6,7 +6,7 @@ This forked GitHub project is intented for folks who have little to know command
 
 I created a <a href="https://youtu.be/UXtuigy_wYc?si=93d4d1iP30NMgfYm" target="_blank">walkthrough video</a>  to compliment the installation instructions. You can watch it independently or with this project page as reference. Please follow my YT channel for additional updates. Now let's get 3D Gaussian Splatting!
 
-The section below is from the original GitHub page. Jump down to [Overview](#overview) to get started. <br>
+The section below is from the original GitHub page. Jump down to [Go to Dependencies and Installation](#-1-dependencies-and-installation) to get started. <br>
 <br>
 <br>
 
